@@ -1,4 +1,3 @@
 ### Hi there 👋
-I'm a fullstack developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafatech&layout=compact&theme=nord)](https://github.com/mostafatech/mostafatech)
+I’m a results-driven Full Stack Software Engineer with 6+ years of experience designing and delivering high-performance, scalable software solutions using modern technologies including but not limited to C#, ASP.NET Core, Javascript, Node.js, C, C++, Python, and cloud platforms (Azure, AWS). I specialize in architecting robust systems with Domain-Driven Design, CQRS, Microservices, and Event-Driven Architecture, driving improvements in performance, scalability, and maintainability. As a strong communicator with a Bachelor’s degree in Software Engineering, I excel at implementing CI/CD pipelines, automated testing, monitoring and cost management for operational excellence. Recognized for optimizing systems, reducing costs, and enhancing user experience, I’m passionate about leveraging my technical expertise and strategic thinking to deliver business value in fast-paced, collaborative environments.
